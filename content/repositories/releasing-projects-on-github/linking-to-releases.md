@@ -1,4 +1,4 @@
----
+preview. 
 title: Linking to releases
 intro: You can share every release you create on GitHub with a unique URL.
 redirect_from:
